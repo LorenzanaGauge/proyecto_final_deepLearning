@@ -1,5 +1,4 @@
-# Autores: Efrain Condes Luna y Benjamin Torres Saavedra
-# AGOconsultores  
+
 
 # Bibliotecas
 from torchvision import transforms
