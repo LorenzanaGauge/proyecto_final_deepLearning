@@ -16,6 +16,8 @@ El conjunto de datos se encuentra en el siguiente drive:
 
 https://drive.google.com/drive/folders/1p79QyUQ6XF5taZiu2GwVToyLq_i0ADlN?usp=drive_link
 
+En el Drive, contienen los resultados del Tensorboard en la carpeta "resultados/resultadosTB". Para obtener las redes neuronales, se utilizó ModelCheckpoint, por lo que los modelos se pueden decargar dentro de cada carpeta del experimento de interés, en la carpeta "checkpoints"
+
 ⚙️ Tecnologías Utilizadas
 
     Lenguaje de Programación: Python
