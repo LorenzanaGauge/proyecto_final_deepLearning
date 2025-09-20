@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 11:08:39 2022
 
-@author: pablo
-"""
 import os
 import random
 import shutil
